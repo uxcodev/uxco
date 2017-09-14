@@ -2,16 +2,16 @@
     {
         "date": "Apr 1",
         "description": "Facebook has requested some information from you",
-        "status": ""
+        "status": "1"
     },
     {
         "date": "Mar 31",
         "description": "Facebook has requested some information from you",
-        "status": ""
+        "status": "2"
     },
     {
         "date": "Mar 22",
         "description": "Facebook has requested some information from you",
-        "status": ""
+        "status": "3"
     }
 ]
