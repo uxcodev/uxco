@@ -6,12 +6,12 @@
     },
     {
         "date": "Mar 31",
-        "description": "Facebook has requested some information from you",
+        "description": "You requested some information from Google",
         "status": "2"
     },
     {
         "date": "Mar 22",
-        "description": "Facebook has requested some information from you",
+        "description": "ACME Enterprises Inc sent you some data",
         "status": "3"
     }
 ]
