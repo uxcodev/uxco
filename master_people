@@ -1,0 +1,212 @@
+[
+  {
+    "name": "John Doe",
+    "first": "John",
+    "last": "Doe",
+    "initial": "JD",
+    "email_initial": "jd",
+    "email_initial_full": "jd@newline-hr.com",
+    "email_name": "johndoe",
+    "email_name_full": "johndoe@newline-hr.com"
+  },
+  {
+    "name": "Ridwan Becker",
+    "first": "Ridwan",
+    "last": "Becker",
+    "initial": "RB",
+    "email_initial": "rb",
+    "email_initial_full": "rb@newline-hr.com",
+    "email_name": "ridwanbecker",
+    "email_name_full": "ridwanbecker@newline-hr.com"
+  },
+  {
+    "name": "Ansh Turnbull",
+    "first": "Ansh",
+    "last": "Turnbull",
+    "initial": "AT",
+    "email_initial": "at",
+    "email_initial_full": "at@newline-hr.com",
+    "email_name": "anshturnbull",
+    "email_name_full": "anshturnbull@newline-hr.com"
+  },
+  {
+    "name": "Conner Lacey",
+    "first": "Conner",
+    "last": "Lacey",
+    "initial": "CL",
+    "email_initial": "cl",
+    "email_initial_full": "cl@newline-hr.com",
+    "email_name": "connerlacey",
+    "email_name_full": "connerlacey@newline-hr.com"
+  },
+  {
+    "name": "Caitlin Herman",
+    "first": "Caitlin",
+    "last": "Herman",
+    "initial": "CH",
+    "email_initial": "ch",
+    "email_initial_full": "ch@newline-hr.com",
+    "email_name": "caitlinherman",
+    "email_name_full": "caitlinherman@newline-hr.com"
+  },
+  {
+    "name": "Rares Rollins",
+    "first": "Rares",
+    "last": "Rollins",
+    "initial": "RR",
+    "email_initial": "rr",
+    "email_initial_full": "rr@newline-hr.com",
+    "email_name": "raresrollins",
+    "email_name_full": "raresrollins@newline-hr.com"
+  },
+  {
+    "name": "Umaima Barnett",
+    "first": "Umaima",
+    "last": "Barnett",
+    "initial": "UB",
+    "email_initial": "ub",
+    "email_initial_full": "ub@newline-hr.com",
+    "email_name": "umaimabarnett",
+    "email_name_full": "umaimabarnett@newline-hr.com"
+  },
+  {
+    "name": "Lorelei Murillo",
+    "first": "Lorelei",
+    "last": "Murillo",
+    "initial": "LM",
+    "email_initial": "lm",
+    "email_initial_full": "lm@newline-hr.com",
+    "email_name": "loreleimurillo",
+    "email_name_full": "loreleimurillo@newline-hr.com"
+  },
+  {
+    "name": "Issac Connor",
+    "first": "Issac",
+    "last": "Connor",
+    "initial": "IC",
+    "email_initial": "ic",
+    "email_initial_full": "ic@newline-hr.com",
+    "email_name": "issacconnor",
+    "email_name_full": "issacconnor@newline-hr.com"
+  },
+  {
+    "name": "Zakariyya Calhoun",
+    "first": "Zakariyya",
+    "last": "Calhoun",
+    "initial": "ZC",
+    "email_initial": "zc",
+    "email_initial_full": "zc@newline-hr.com",
+    "email_name": "zakariyyacalhoun",
+    "email_name_full": "zakariyyacalhoun@newline-hr.com"
+  },
+  {
+    "name": "Kyron Dunkley",
+    "first": "Kyron",
+    "last": "Dunkley",
+    "initial": "KD",
+    "email_initial": "kd",
+    "email_initial_full": "kd@newline-hr.com",
+    "email_name": "kyrondunkley",
+    "email_name_full": "kyrondunkley@newline-hr.com"
+  },
+  {
+    "name": "Stefan Ibarra",
+    "first": "Stefan",
+    "last": "Ibarra",
+    "initial": "SI",
+    "email_initial": "si",
+    "email_initial_full": "si@newline-hr.com",
+    "email_name": "stefanibarra",
+    "email_name_full": "stefanibarra@newline-hr.com"
+  },
+  {
+    "name": "Nafeesa Cresswell",
+    "first": "Nafeesa",
+    "last": "Cresswell",
+    "initial": "NC",
+    "email_initial": "nc",
+    "email_initial_full": "nc@newline-hr.com",
+    "email_name": "nafeesacresswell",
+    "email_name_full": "nafeesacresswell@newline-hr.com"
+  },
+  {
+    "name": "Olly Simpson",
+    "first": "Olly",
+    "last": "Simpson",
+    "initial": "OS",
+    "email_initial": "os",
+    "email_initial_full": "os@newline-hr.com",
+    "email_name": "ollysimpson",
+    "email_name_full": "ollysimpson@newline-hr.com"
+  },
+  {
+    "name": "Tonya Whittle",
+    "first": "Tonya",
+    "last": "Whittle",
+    "initial": "TW",
+    "email_initial": "tw",
+    "email_initial_full": "tw@newline-hr.com",
+    "email_name": "tonyawhittle",
+    "email_name_full": "tonyawhittle@newline-hr.com"
+  },
+  {
+    "name": "Roman Pollard",
+    "first": "Roman",
+    "last": "Pollard",
+    "initial": "RP",
+    "email_initial": "rp",
+    "email_initial_full": "rp@newline-hr.com",
+    "email_name": "romanpollard",
+    "email_name_full": "romanpollard@newline-hr.com"
+  },
+  {
+    "name": "Tegan Coleman",
+    "first": "Tegan",
+    "last": "Coleman",
+    "initial": "TC",
+    "email_initial": "tc",
+    "email_initial_full": "tc@newline-hr.com",
+    "email_name": "tegancoleman",
+    "email_name_full": "tegancoleman@newline-hr.com"
+  },
+  {
+    "name": "Bodhi Delgado",
+    "first": "Bodhi",
+    "last": "Delgado",
+    "initial": "BD",
+    "email_initial": "bd",
+    "email_initial_full": "bd@newline-hr.com",
+    "email_name": "bodhidelgado",
+    "email_name_full": "bodhidelgado@newline-hr.com"
+  },
+  {
+    "name": "Kloe Lucero",
+    "first": "Kloe",
+    "last": "Lucero",
+    "initial": "KL",
+    "email_initial": "kl",
+    "email_initial_full": "kl@newline-hr.com",
+    "email_name": "kloelucero",
+    "email_name_full": "kloelucero@newline-hr.com"
+  },
+  {
+    "name": "Honey Strickland",
+    "first": "Honey",
+    "last": "Strickland",
+    "initial": "HS",
+    "email_initial": "hs",
+    "email_initial_full": "hs@newline-hr.com",
+    "email_name": "honeystrickland",
+    "email_name_full": "honeystrickland@newline-hr.com"
+  },
+  {
+    "name": "Michelle Whitehead",
+    "first": "Michelle",
+    "last": "Whitehead",
+    "initial": "MW",
+    "email_initial": "mw",
+    "email_initial_full": "mw@newline-hr.com",
+    "email_name": "michellewhitehead",
+    "email_name_full": "michellewhitehead@newline-hr.com"
+  }
+]
